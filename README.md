@@ -1,6 +1,6 @@
 # 👋 Hello!! Welcome!
 
-![Octocat](https:github.githubassets.com/images/icons/emoji/octocat-1696530201159)
+![Octocat](file:///C:/Users/jhope/Downloads/octocat-1696530201159.png)
   
 - 📖 Perfil de Estudante :) 📖
 
