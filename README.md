@@ -1,6 +1,5 @@
 # 👋 Hello!! Welcome!
 
-![Octocat](file:///C:/Users/jhope/Downloads/octocat-1696530201159.png)
   
 - 📖 Perfil de Estudante :) 📖
 
