@@ -1,6 +1,6 @@
 # Amanda da Costa 🌸
 
-<img align="right" src="octocat-1696530201159.png" width="150" height="150" >
+<img align="left" src="octocat-1696530201159.png" width="150" height="150" >
 
 # 👋 Hello!! 
   
