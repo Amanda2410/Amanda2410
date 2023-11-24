@@ -14,6 +14,8 @@
 <a href="https://github.com/Amanda2410">
 <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda2410&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br>
+<br>
 <div>
   <a href="https://www.instagram.com/amy_costa925/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "amandacosta1121@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
