@@ -2,7 +2,6 @@
 
 <img align="left" src="octocat-1696530201159.png" width="170" height="170" >
 
-
 # 👋 Hello!! 
   
 - 📖 Perfil de Estudante :) 📖
